@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/512x512.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Courser Li",
+  title: "Courser Li の 云网盘",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/courserli.com',
